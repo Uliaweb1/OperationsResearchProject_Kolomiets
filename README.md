@@ -1,5 +1,5 @@
 ```bash
 cd ./src
-g++ ./main -o ./main
+g++ ./main.cpp -o ./main
 ./main | cat
 ```
